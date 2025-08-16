@@ -33,8 +33,3 @@ Safe driving is invaluable. This project is designed to mitigate road accident r
 4. **Android App Integration**  
    - Embeds the model within an Android app.
    - Accepts live data, applies the model to assess current risk, and triggers alerts if danger is detected.
-
-5. **User Alerts**  
-   - Alerts delivered via audible voice prompts or haptic vibration, alerting drivers in real-time.
-   git clone https://github.com/Engr-Mujeeb-Rahman/smartphone-sensor-risk-classifier.git
-   cd smartphone-sensor-risk-classifier
